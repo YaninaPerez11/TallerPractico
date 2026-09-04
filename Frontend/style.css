@@ -55,7 +55,9 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 30px;
   padding: 40px 20px;
+  flex-wrap: wrap;
 }
 
 .card {
@@ -63,7 +65,7 @@ main {
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   padding: 30px;
-  max-width: 350px;
+  width: 350px;
   text-align: center;
   transition: transform 0.3s ease;
 }
