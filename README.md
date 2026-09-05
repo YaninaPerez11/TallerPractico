@@ -27,22 +27,20 @@ de presentación, utilizando HTML, CSS e imágenes.
 
 ## Estructura del proyecto
 
+```text
 TallerPractico/
-│
 ├── Frontend/
 │   ├── index.html
 │   ├── persona1.html
 │   ├── persona2.html
 │   ├── persona3.html
 │   └── persona4.html
-│
 ├── CSS/
 │   └── style.css
-│
 ├── Imagenes/
 │   └── imágenes utilizadas en el proyecto
-│
 └── README.md
+```
 
 ## Control de versiones
 
